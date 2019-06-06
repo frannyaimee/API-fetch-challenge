@@ -1,0 +1,57 @@
+body {
+	margin: auto;
+	background-color:  silver;
+}
+
+button {
+	font-size: 200%;
+	margin: 20px;
+}
+
+div{
+	text-align: center;
+}
+
+p {
+	width: 50%;
+	margin: auto;
+	font-style: italic;
+	color: silver;
+}
+
+.collapsible {
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  border: none;
+  outline: none;
+  font-size: 15px;
+  text-align: center;
+}
+
+.active, .collapsible:hover {
+  background-color: #555;
+}
+.hidden {
+	display:none;
+}
+
+.card{
+	border: 2px solid red;
+	padding: 15px;
+	width: 50%;
+	margin: auto;
+	margin-top: 15px;
+}
+img {
+	padding-top: 10px;
+	width: 150px;
+
+}
+
+.content {
+  padding: 0 18px;
+  background-color: #f1f1f1;
+  text-align: center;
+}
