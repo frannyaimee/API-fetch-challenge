@@ -13,7 +13,7 @@ AJAX exercise given to us BeCode
 * Create a 'beer menu' by fetching an API and putting all of the beer names, images, and descriptions on one page
 
 ## URL of assignment:
-
+ https://frannyaimee.github.io/API-fetch-challenge/.
 
 ## Timetable and status
 
