@@ -148,3 +148,12 @@ img {
 		width: 60%;
 	}
 }
+
+@media (max-width: 600px){
+	.section{
+		background: silver;
+	}
+	.card {
+		width: 60%;
+	}
+}
