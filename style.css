@@ -140,7 +140,7 @@ img {
 }
 
 /*PHONE STYLING*/
-@media only screen and (max-width: 500px){
+@media (max-width: 800px){
 	.section{
 		background: silver;
 	}
