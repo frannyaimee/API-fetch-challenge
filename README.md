@@ -13,7 +13,7 @@ AJAX exercise given to us BeCode
 * Create a 'beer menu' by fetching an API and putting all of the beer names, images, and descriptions on one page
 
 ## URL of assignment:
- https://frannyaimee.github.io/API-fetch-challenge/.
+https://github.com/becodeorg/GNT-Yu-1.10/tree/master/2.The-Hills/2.Javascript-Advanced/05.FETCH-API#nice-to-have-features
 
 ## Timetable and status
 
@@ -26,8 +26,7 @@ Status: In Progress, we still need to make the data filterable by name, abv, foo
 No installation needed, I will be using Sublime Text as my text editor. All code is written in HTML, CSS, and Javascript. 
 
 ## URL of Published Site:
-
-not published
+https://frannyaimee.github.io/API-fetch-challenge/
 
 
 What, Why, When, How, Who.
