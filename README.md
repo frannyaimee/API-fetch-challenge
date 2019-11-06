@@ -3,7 +3,7 @@ Learning Challenge with Pair Programming
 
 ## Contributors/Collaborators:
 
-* @frannyaimee Frances Renneboog && @eliasdb Elias De Bock
+* @frannyaimee Frances Renneboog 
 
 ## Context
 
